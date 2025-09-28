@@ -1,6 +1,4 @@
-# assignment4
-
-we read and write in a file and handle a error
+# we read and write in a file and handle a error
 
 1.we use try except block for erro handling
 2. first we open the file by open(" ", 'r') 'r' use for rerading  and 'w' used for writing  and 'a' used for , and read the file by read function read()
